@@ -10,7 +10,7 @@ and here's a picture of the table in the database
 
 Here's the [Wokwi project link](https://wokwi.com/projects/373817804283697153). also the zip file i downloaded from the project is uploaded [Here](https://github.com/oAmadu/Connecting-esp32-to-DB/blob/c1799373d65350aec0e80c0add9aee9d573e8bb4/esp32-dht22.zip)
 
-And here's the [php file](https://github.com/oAmadu/Connecting-esp32-to-DB/blob/c1799373d65350aec0e80c0add9aee9d573e8bb4/store.php)
+And here's the [php file](https://github.com/oAmadu/Connecting-esp32-to-DB/blob/c1799373d65350aec0e80c0add9aee9d573e8bb4/store.php) where it receives a variable of the type GET to store it in the database
 
 
 
